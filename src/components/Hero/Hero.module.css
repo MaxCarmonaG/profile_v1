@@ -1,0 +1,5 @@
+.container {
+  min-height: 58rem;
+  background-image: linear-gradient( var(--primary-light-color), var(--secondary-light-color));
+  border-radius: 0 0 25% 0;
+}
